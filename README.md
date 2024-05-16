@@ -23,7 +23,7 @@ Make sure you have Node.js and npm installed on your machine.
 #Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/food-ordering-page.git
+   git clone https://github.com/juanjua1/fake-food.git
    
 2.Navigate to the project directory:
    cd food-ordering-page
