@@ -20,27 +20,6 @@ Vite: A build tool that provides a fast development environment.
 ## Prerequisites
 Make sure you have Node.js and npm installed on your machine.
 
-##Installation
 
-1. Clone the repository:
-   git clone https://github.com/juanjua1/Food-web
-   
-2.Navigate to the project directory:
-   cd food-ordering-page
-
-3.Install the dependencies:
-   npm install
-
-## Running the Project
-
-To start the development server, run:
-   npm run dev
-
-   This will start the Vite development server and you can view the project in your browser at http://localhost:3000.
-
-
-## License
-
- This project is licensed under the MIT License.
 
 
